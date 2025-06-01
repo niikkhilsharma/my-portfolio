@@ -74,8 +74,8 @@ export const SingleProduct = ({ product }: { product: Product }) => {
 			</div>
 			<div className="prose prose-sm md:prose-base max-w-none text-neutral-600">{product?.content}</div>
 
-			<div className="flex">
-				<AnimatedTooltip size="small" items={people} link={true} />
+			<div className="flex mb-4">
+				<AnimatedTooltip size="small" items={product.socials} link={true} />
 			</div>
 
 			<a

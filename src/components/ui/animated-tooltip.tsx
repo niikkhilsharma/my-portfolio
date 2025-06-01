@@ -79,7 +79,7 @@ export const AnimatedTooltip = ({
 							alt={item.name}
 							className={cn(
 								'relative !m-0 rounded-full border-2 border-white object-cover object-top !p-0 transition duration-500 group-hover:z-30 group-hover:scale-105',
-								size === 'small' ? 'h-12 w-12' : size === 'medium' ? 'h-14 w-14' : 'h-16 w-16'
+								size === 'small' ? 'h-10 w-10' : size === 'medium' ? 'h-12 w-12' : 'h-14 w-14'
 							)}
 						/>
 					</Link>
