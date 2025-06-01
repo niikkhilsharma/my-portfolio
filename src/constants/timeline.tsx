@@ -1,7 +1,7 @@
 export const timeline = [
 	{
 		company: 'Freelance',
-		title: 'Fullstack AI Software Engineer',
+		title: 'AI Software Engineer',
 		date: '2025 - Present',
 		description: 'Building product that impace millions of lives',
 		responsibilities: [
@@ -14,7 +14,7 @@ export const timeline = [
 	},
 	{
 		company: 'Eigenthink AI',
-		title: 'Frontend Software Engineer',
+		title: 'Software Engineer',
 		date: '2024 - 2025',
 		description: 'Building the future of search',
 		responsibilities: [
@@ -38,7 +38,7 @@ export const timeline = [
 	},
 	{
 		company: 'DotAgent',
-		title: 'Fullstack AI Developer Intern',
+		title: 'Frontend Developer Intern',
 		date: '2023 - 2023',
 		description: 'Building the future of AI software',
 		responsibilities: [
